@@ -1,0 +1,14 @@
+{
+  "version": "2026-10-15.1",
+  "files": [
+    {
+      "path": "feishu-bot.py",
+      "sha256": "c5f2bb66b3f0db2171715a373426b64bca2c1e86dc400b189105acde34414d44"
+    },
+    {
+      "path": "run-bots.sh",
+      "sha256": "5e6e0c965da49da1bf5ac16dd13dbaafc41661f3465839f72f3b26b8fb880e80"
+    }
+  ],
+  "restart": "bot"
+}
