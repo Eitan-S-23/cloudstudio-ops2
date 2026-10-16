@@ -11,7 +11,7 @@
 
 | 文件 | 说明 |
 | --- | --- |
-| `feishu-bot.py` | 飞书命令机器人:长连接收命令、本地执行、卡片回显、clash 节点切换交互卡片 |
+| `feishu-bot.py` | 飞书命令机器人:长连接收命令、本地执行、卡片回显、clash 节点切换卡片、cc-connect 供应商/模型切换卡片 |
 | `run-bots.sh` | 容器启动链:状态页 + 机器人 + cc-connect(仅随本通道更新) |
 | `manifest.json` | 版本清单:`version` / `files[].sha256` / `restart` |
 
