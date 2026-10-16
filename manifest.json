@@ -1,9 +1,9 @@
 {
-  "version": "2026-10-16.4",
+  "version": "2026-10-16.5",
   "files": [
     {
       "path": "feishu-bot.py",
-      "sha256": "edb4098e2b47e13887b4939ddeb538f5bec8c176eb90ce00a9166b4fda34d430"
+      "sha256": "81fc7c3f85efeed5ad93ece1beed6c2db8dd166112a75a9143b8f074bd0e17c3"
     },
     {
       "path": "run-bots.sh",
