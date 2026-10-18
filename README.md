@@ -11,8 +11,10 @@
 
 | 文件 | 说明 |
 | --- | --- |
-| `feishu-bot.py` | 飞书命令机器人:长连接收命令、本地执行、卡片回显、clash 节点切换卡片、cc-connect 供应商/模型切换卡片 |
+| `feishu-bot.py` | 飞书命令机器人:长连接收命令、本地执行、卡片回显、clash 节点切换卡片、代理开关卡片、cc-connect 供应商/模型切换卡片 |
 | `run-bots.sh` | 容器启动链:状态页 + 机器人 + cc-connect(仅随本通道更新) |
+| `tencent-proxy` | Clash/agent 代理一键开关(`on`/`off`/`status`),由 clash 卡片调用 |
+| `set-agent-proxy.py` | 读写 `cc-connect/config.toml` 的 agent 代理变量,供 `tencent-proxy` 调用 |
 | `manifest.json` | 版本清单:`version` / `files[].sha256` / `restart` |
 
 ## 流程

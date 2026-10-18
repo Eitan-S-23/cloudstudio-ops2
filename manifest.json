@@ -1,13 +1,21 @@
 {
-  "version": "2026-10-16.6",
+  "version": "2026-10-18.1",
   "files": [
     {
       "path": "feishu-bot.py",
-      "sha256": "6bca2c607e3e545d380dcfe916a02e963b99ba35abd1fdee0b8bf8c349520261"
+      "sha256": "84f5304b578fc1998577f6ea23859e9399760d39b9bf618704681d8acb2fabee"
     },
     {
       "path": "run-bots.sh",
       "sha256": "5e6e0c965da49da1bf5ac16dd13dbaafc41661f3465839f72f3b26b8fb880e80"
+    },
+    {
+      "path": "tencent-proxy",
+      "sha256": "e98f9c37cc9d6b24779537a7f2e52f8d663d48fb4bf74cd4258fee8f5f93c42b"
+    },
+    {
+      "path": "set-agent-proxy.py",
+      "sha256": "7ae3cb1118f043363677012d81db42ac7bc3a72eebf6c14073f79fde068f7a9b"
     }
   ],
   "restart": "bot"
