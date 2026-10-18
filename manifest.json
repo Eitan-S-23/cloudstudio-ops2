@@ -1,5 +1,5 @@
 {
-  "version": "2026-10-18.1",
+  "version": "2026-10-19.1",
   "files": [
     {
       "path": "feishu-bot.py",
@@ -11,7 +11,7 @@
     },
     {
       "path": "tencent-proxy",
-      "sha256": "e98f9c37cc9d6b24779537a7f2e52f8d663d48fb4bf74cd4258fee8f5f93c42b"
+      "sha256": "d7d64af7acb2e7afe67ec9fc091b47499514c93319271b485feb6427236fd5dc"
     },
     {
       "path": "set-agent-proxy.py",
