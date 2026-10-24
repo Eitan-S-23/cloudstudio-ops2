@@ -1,14 +1,10 @@
 {
-  "version": "2026-10-25.4",
+  "version": "2026-10-25.5",
   "updated": "2026-10-25",
   "files": [
     {
-      "path": "tencent-cc-rollout.py",
-      "sha256": "b346748dbd8c6c3a61fe389354d8486e7a7106b377f7d6a607c86ff4c84d4d2c"
-    },
-    {
       "path": "feishu-bot.py",
-      "sha256": "f2a84906390649da8efeaeeff27f986739b7a222a5a5836767aefd1b0c5e5c5f"
+      "sha256": "84f5304b578fc1998577f6ea23859e9399760d39b9bf618704681d8acb2fabee"
     }
   ],
   "restart": "bot"
