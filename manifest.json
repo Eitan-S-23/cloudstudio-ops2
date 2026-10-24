@@ -1,11 +1,10 @@
 {
-  "version": "2026-10-25.5",
+  "version": "2026-10-25.6",
   "updated": "2026-10-25",
   "files": [
     {
       "path": "feishu-bot.py",
       "sha256": "84f5304b578fc1998577f6ea23859e9399760d39b9bf618704681d8acb2fabee"
     }
-  ],
-  "restart": "bot"
+  ]
 }
